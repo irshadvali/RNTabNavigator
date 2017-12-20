@@ -1,0 +1,3 @@
+rootProject.name = 'RNTabNavigator'
+
+include ':app'
